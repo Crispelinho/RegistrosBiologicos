@@ -1,0 +1,7 @@
+@Autor: Ing. Cristhian Carpio - 2020
+
+
+Aplicación Web para registro de muestras biológicas
+
+
+Este proyecto web corresponde a la implementación de una plataforma web que permite realizar el registro de muestras biológicas dependiendo el proyecto al que pertenece y la ecorregion. La aplicación web utiliza el patrón arquitectónico MVC y PHP como lenguaje de programación para toda la lógica de acceso a datos implementando el concepto de DAOs, estructura de datos y manejo de controladores. En el frotend se utilizaron tecnologías como Bootstrap para fácil diseño de aplicaciones y rápida configuración de visualización para casi que cualquier dispositivo (responsive), JavaScript y HTML, entre otras tecnologías como sweetalert2 para manejo de alertas. Por último la plataforma permite descargar la información de los registro en un archivo de formato .CSV.
